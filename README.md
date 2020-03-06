@@ -1,5 +1,11 @@
 # NgBoxClicker
 
+есть область area
+рядом stat
+внутри сетка item со значением цвета и расположения х и у
+при клике проверяется есть ли рядом элементы такого же цвета
+если есть, проверятеся у остальных аналогичным образом
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
 ## Development server
